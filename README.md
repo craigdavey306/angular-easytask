@@ -1,3 +1,7 @@
+# EasyTask
+
+Project displays tasks for a few users, and allows you to add and complete tasks. The project is not linked to a database so the tasks are memory-based.
+
 # Essentials
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 17.1.1.
